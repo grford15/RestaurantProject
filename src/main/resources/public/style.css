@@ -2,7 +2,7 @@ body {
   background: linear-gradient(#262626, #595959);
   color: #e6e6e6;
   font-family: 'Comfortaa', cursive;
-  padding-bottom: 100%;
+  padding-bottom: 50px;
 }
 
 .nav-bar{
@@ -18,10 +18,11 @@ body {
 }
 
 .nav-bar li {
-  margin: 5px;
+  margin-left: 20px;
   list-style-type: none;
   padding-top: 8px;
 }
+
 
 .nav-bar a {
   text-decoration: none;
