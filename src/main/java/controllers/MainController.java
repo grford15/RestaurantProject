@@ -3,11 +3,15 @@ package controllers;
 import db.Seeds;
 import spark.template.velocity.VelocityTemplateEngine;
 
+import static spark.SparkBase.port;
 import static spark.SparkBase.staticFileLocation;
 
 public class MainController {
 
     public static void main(String[] args) {
+
+        port(getHerokuAssignedPort());
+
         staticFileLocation("/public");
         BookingController bookingController = new BookingController();
         //RestaurantController restaurantController = new RestaurantController();

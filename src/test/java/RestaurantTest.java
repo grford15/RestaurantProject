@@ -35,9 +35,9 @@ public class RestaurantTest {
 //        assertEquals(true, restaurant.getTables().contains(Seating.TABLESIX));
 //    }
 
-    @Test
-    public void canMakeBooking(){
-        restaurant.makeBooking(booking1);
-        assertEquals(1, restaurant.getBookings().size());
-    }
+//    @Test
+//    public void canMakeBooking(){
+//        restaurant.makeBooking(booking1);
+//        assertEquals(1, restaurant.getBookings().size());
+//    }
 }
