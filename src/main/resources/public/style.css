@@ -141,8 +141,11 @@ input.cancelButton {
 }
 
 .editButton{
+  background-color: #e6e6e6;
+  border-radius: 2px;
+  padding: 4px;
   text-decoration: none;
-  color: #0066ff;
+  color: #262626;
 }
 
 select{
