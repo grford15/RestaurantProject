@@ -1,11 +1,11 @@
-import models.Till;
-import org.junit.Before;
-import org.junit.Test;
-
-
-import static org.junit.Assert.assertEquals;
-
-public class TillTest {
+//import models.Till;
+//import org.junit.Before;
+//import org.junit.Test;
+//
+//
+//import static org.junit.Assert.assertEquals;
+//
+//public class TillTest {
 
 //    Till till;
 //
@@ -26,4 +26,4 @@ public class TillTest {
 //        till.increaseBalance(50);
 //        assertEquals(550, till.getAmount());
 //    }
-}
+//}

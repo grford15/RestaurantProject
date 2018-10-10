@@ -1,19 +1,19 @@
-import models.Booking;
-import models.Customer;
-import models.Seating;
-import org.junit.Before;
-import org.junit.Test;
-
-import java.util.Calendar;
-import java.util.GregorianCalendar;
-
-public class BookingTest {
-
-    Booking booking;
-    Customer customer;
-    Seating seating1;
-    Seating seating2;
-    Seating seating3;
+//import models.Booking;
+//import models.Customer;
+//import models.Seating;
+//import org.junit.Before;
+//import org.junit.Test;
+//
+//import java.util.Calendar;
+//import java.util.GregorianCalendar;
+//
+//public class BookingTest {
+//
+//    Booking booking;
+//    Customer customer;
+//    Seating seating1;
+//    Seating seating2;
+//    Seating seating3;
 ;
 
 //    @Before
@@ -38,4 +38,4 @@ public class BookingTest {
 //    }
 
 
-}
+//}

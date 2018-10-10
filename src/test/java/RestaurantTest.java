@@ -1,21 +1,21 @@
-import models.Booking;
-import models.Customer;
-import models.Restaurant;
-import models.Seating;
-import org.junit.Before;
-import org.junit.Test;
-
-import java.util.Calendar;
-import java.util.GregorianCalendar;
-
-import static org.junit.Assert.assertEquals;
-
-public class RestaurantTest {
-
-    Restaurant restaurant;
-    Booking booking1;
-    Calendar calendar1;
-    Customer customer1;
+//import models.Booking;
+//import models.Customer;
+//import models.Restaurant;
+//import models.Seating;
+//import org.junit.Before;
+//import org.junit.Test;
+//
+//import java.util.Calendar;
+//import java.util.GregorianCalendar;
+//
+//import static org.junit.Assert.assertEquals;
+//
+//public class RestaurantTest {
+//
+//    Restaurant restaurant;
+//    Booking booking1;
+//    Calendar calendar1;
+//    Customer customer1;
 
 //    @Before
 //    public void setUp() throws Exception {
@@ -40,4 +40,4 @@ public class RestaurantTest {
 //        restaurant.makeBooking(booking1);
 //        assertEquals(1, restaurant.getBookings().size());
 //    }
-}
+//}

@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class CustomerTest {
+//public class CustomerTest {
 
 //    Customer customer;
 //    Booking booking;
@@ -34,4 +34,4 @@ public class CustomerTest {
 //        customer.addBookings(booking);
 //        assertEquals(1, customer.getBookings().size());
 //    }
-}
+//}
